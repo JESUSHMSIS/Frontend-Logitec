@@ -348,6 +348,7 @@ export default function ProformaExwModal({
                     <span className="text-lg">No</span>
                   </Button>
                 </div>
+                <p className="mt-2">Si escoge "Si" tiene un 3% mas de costo</p>
               </div>
             </div>
           )}
@@ -357,7 +358,7 @@ export default function ProformaExwModal({
             <div className="space-y-6">
               <div>
                 <h3 className="text-lg font-medium text-white mb-4">
-                  Costo de Envío al Almacén Foshan
+                  Costo de Envío al Almacén
                 </h3>
                 <div className="relative">
                   <Input
